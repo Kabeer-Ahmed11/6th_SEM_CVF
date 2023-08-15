@@ -1,0 +1,11 @@
+Junhe Wan, Yi Zheng, Yanping Li, Bo He, Hui Li, Bin Lv, Yinglong Wang,
+Multi-strategy fusion based on sea state codes for AUV motion control,
+Ocean Engineering,
+Volume 248,
+2022,
+110600,
+ISSN 0029-8018,
+https://doi.org/10.1016/j.oceaneng.2022.110600.
+(https://www.sciencedirect.com/science/article/pii/S0029801822000701)
+Abstract: The performance of motion controller is worst affected by the ocean currents, waves and other marine environments. Therefore, a multi-strategy fusion method is proposed for AUV motion by considering the characteristics of high nonlinearity, strong coupling, the complex marine environment, and the long-term autonomy. A variety of different control methods are integrated, and the appropriate strategy can be chosen automatically according to AUV running state and the external environment. The hysteresis algorithm is introduced to avoid chattering on account of frequent switching. The simulation and experiment results demonstrate that the excellent performance has been attained, such as overshoot and steady-state error. Furthermore, the multi-strategy fusion method is more suitable for AUV’s long-term autonomous task and the complex marine environments. It is easy to realize in engineering and has good robustness on a large scale.
+Keywords: Autonomous underwater vehicle; Active disturbance reject control; Fractional calculus; Multi-strategy fusion

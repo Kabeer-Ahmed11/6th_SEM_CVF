@@ -1,0 +1,11 @@
+Evdokia Tapoglou, Rodney M. Forster, Robert M. Dorrell, Daniel Parsons,
+Machine learning for satellite-based sea-state prediction in an offshore windfarm,
+Ocean Engineering,
+Volume 235,
+2021,
+109280,
+ISSN 0029-8018,
+https://doi.org/10.1016/j.oceaneng.2021.109280.
+(https://www.sciencedirect.com/science/article/pii/S0029801821007009)
+Abstract: Accurate wave forecasts are essential for the safe and efficient maritime operations and, in particular, the maintenance of offshore wind farms. Here, machine learning and remote monitoring from satellites are integrated to provide uniquely detailed predictions of significant wave height (SWH). C-Band Synthetic Aperture Radar images from European Space Agency Sentinel-1 satellites were combined with wave-buoy data from around the UK, using the CEFAS Wavenet. A total of 240 images in wide swarth mode were collected, that represent significant wave height ranging from 0 to 4.7 m. Image properties related to sea surface roughness in dual-polarization mode, together with the wave buoy data, trained an ensemble of artificial neural networks. The trained networks were shown to provide an effective method for the estimation of the SWH, having an RMSE = 0.23 m for SWH<3 m, which is the region of interest for offshore wind energy applications. The methodology enables information on the spatial distribution of wave height in very high resolution to be obtained. Sea-state resolved from the satellite data, using the artificial neural network shows that windfarm infrastructure directly influences wave propagation. The overall variance of significant wave height throughout a wind farm was calculated, providing information on regions of interest with considerably different wave heights as compared to the nearest wave buoy. The new model will help towards improved downscaling of general sea state forecasts, locating hotspots of different wave height properties and correct prioritization of maintenance jobs to perform in wind turbines.
+Keywords: Offshore renewable energy; Machine learning; Artificial neural networks; Wave forecasting; Synthetic aperture radar; Remote sensing
